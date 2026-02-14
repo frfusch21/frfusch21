@@ -19,7 +19,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Senior Web App Engineer based in Indonesia.
+I am a Senior Web App Engineer based in Indonesia and Thailand.
 
 - 💻 I work as a Senior Web App Engineer specializing in building scalable web applications also making automation systems.
 
